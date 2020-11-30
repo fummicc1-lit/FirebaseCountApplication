@@ -31,6 +31,7 @@
 以下のタスクは既に初期の段階で完了しています
 
 - Firebase/Firestoreの初期設定
+- 操作するFirestoreのドキュメントのリファレンス(`DocumentReference`)
 
 ## ブランチについて
 
