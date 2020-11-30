@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>333702746322-2cdr7vmf46lkubdqaig0i5koh5vr5o0b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.333702746322-2cdr7vmf46lkubdqaig0i5koh5vr5o0b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBcIKfI-hM7TqoATd3E68R6S853A7O0sJc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>333702746322</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dev.fummicc1.lit.FirebaseCountApplication</string>
+	<key>PROJECT_ID</key>
+	<string>fir-countapplication</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-countapplication.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:333702746322:ios:fa45ee0f747b142ea35d0b</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-countapplication.firebaseio.com</string>
+</dict>
+</plist>
