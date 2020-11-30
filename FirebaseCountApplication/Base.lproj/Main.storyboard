@@ -89,12 +89,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="clearButton" destination="hrs-Vm-fv6" id="iLJ-YX-BHT"/>
-                        <outlet property="divideButton" destination="1WD-hc-Cce" id="0IP-CB-SxH"/>
                         <outlet property="label" destination="CRm-uf-88s" id="K8u-5l-SsA"/>
-                        <outlet property="minusButton" destination="cHt-6B-WGe" id="gX7-59-AYk"/>
-                        <outlet property="multiplyButton" destination="yFn-Vv-2PW" id="FmO-ln-Fpy"/>
-                        <outlet property="plusButton" destination="Cy8-uP-9q6" id="Hgw-LF-glK"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
